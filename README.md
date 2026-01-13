@@ -8,29 +8,37 @@ I have 7+ years of experience designing and delivering digital, blended, and ins
 ---
 
 ## 🔭 Currently working on
-**Web-game NPC (Single-Player Mode)** — extending a multiplayer browser-based fighting game with computer-controlled opponents.
+**Web-game NPC (Single-Player Mode)** — extending a multiplayer browser-based fighting game **[Samurai Master](https://github.com/CuriousNastija/samurai-master-js-game)** with computer-controlled opponents.
 
 ## 🎥 Selected Finished Projects
 
 > Note: Academic projects are stored in private repositories in accordance with school policy. Access can be provided upon request.
 
-- **Real-Time Multiplayer Web Game**  
-  Browser-based multiplayer game built with real-time communication and event-driven logic.  
-  *Technologies:* JavaScript, Node.js, Socket.IO  
+### **[Samurai Master — Real-Time Multiplayer Web Game](https://github.com/CuriousNastija/samurai-master-js-game)**
+A browser-based **2D real-time multiplayer fighting game** featuring movement, jumping, attacks, blocking, and health mechanics. Built with event-driven architecture for low-latency gameplay.  
+**Tech:** JavaScript, Node.js, Express, Socket.IO  
 
-- **Web Game – NPC Single-Player Mode** *(in progress)*  
-  Extension of an existing multiplayer game with AI-controlled virtual opponents and configurable difficulty levels.  
-  *Focus:* game AI logic, offline mode, single-player experience  
+### **[Frendit — Full-Stack Recommendation Platform](https://github.com/CuriousNastija/frendit)**  
+A modern **friendship & dating platform** inspired by Tinder-style matching, featuring authentication, real-time interactions, and user-driven recommendations.  
+**Tech:** Go, React, TypeScript, PostgreSQL, WebSockets  
 
-- **Full-Stack Recommendation App**  
-  Web application matching users based on profile data and preferences, including authentication and real-time interaction.  
-  *Technologies:* React, TypeScript, Node.js, REST APIs, JWT  
+### **[Racetrack — Real-Time Event System](https://github.com/CuriousNastija/racetrack-info-screens)**  
+A real-time web application for managing racing events and spectator information, coordinating multiple roles and interfaces through a single server.  
+**Tech:** Node.js, Socket.IO, event-driven architecture
 
-- **Custom JavaScript Frontend Framework**  
-  Lightweight frontend framework built from scratch to explore DOM abstraction, routing, and state management.  
-  *Focus:* framework design, usability, and developer experience  
+### **[Custom JavaScript Frontend Framework](https://github.com/CuriousNastija/dot-js-framework)**  
+A lightweight frontend framework built from scratch to explore **DOM abstraction, routing, and state management**, with a focus on performance and developer experience.  
+**Focus:** framework design, usability, SPA architecture
 
-*(Project repositories, demos, and documentation will be linked here.)*
+### **[Art Decoder — ASCII Encoding Tool](https://github.com/CuriousNastija/art-decoder)**  
+A dual-interface tool for **encoding and decoding ASCII art patterns**, designed as a systems-focused Go project with clean, modular logic.  
+**Tech:** Go  
+
+### **[Literary Lions — Web Forum for Book Lovers](https://github.com/CuriousNastija/literary-lions)**  
+A community-driven web forum for literature enthusiasts, featuring persistent storage and containerized deployment.  
+**Tech:** Go, SQLite, Docker
+
+---
 
 ## 🌱 Currently learning
 - Generative AI & prompt engineering for learning applications  
