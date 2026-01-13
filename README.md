@@ -1,4 +1,4 @@
-# Hi 👋 I’m Anastasiia
+# Hi 👋 I’m Anastasiia, aka Nastija
 
 **Learning Experience Designer & Full-Stack Developer (Student)**  
 *Bridging learning design, product thinking, and software development.*
