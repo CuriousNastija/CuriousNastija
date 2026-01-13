@@ -12,7 +12,10 @@ I have 7+ years of experience designing and delivering digital, blended, and ins
 
 ## 🎥 Selected Finished Projects
 
-> Note: Academic projects are stored in private repositories in accordance with school policy. Access can be provided upon request.
+> **Note on repository access**  
+> The projects listed below were developed as part of the kood/Sisu program and are maintained in **private GitHub repositories** in accordance with school policy.  
+>  
+> 📩 Please contact me via **LinkedIn or email** to request access.
 
 ### **[Samurai Master — Real-Time Multiplayer Web Game](https://github.com/CuriousNastija/samurai-master-js-game)**
 A browser-based **2D real-time multiplayer fighting game** featuring movement, jumping, attacks, blocking, and health mechanics. Built with event-driven architecture for low-latency gameplay.  
